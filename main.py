@@ -10,7 +10,7 @@ import base64
 #     ]
 # )
 st.header("Страничка временно пустует", divider='rainbow')
-st.subheader("Пока все движ на других страницах")
+st.subheader("Пока весь движ на других страницах")
 
 file_ = open("kangoroo.gif", "rb")
 contents = file_.read()
